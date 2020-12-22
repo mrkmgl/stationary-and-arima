@@ -1,6 +1,6 @@
 # Exercise on Stationarity and ARIMA modeling in R
 
-The exercise aims to analyze four time series, two non-stationary and two stationary. Besided, it asks to pick a time series and to predict the next year value through the best ARIMA model.
+The exercise aims to analyze four time series, two non-stationary and two stationary. Among these series, I identified potential linear relationships and concluded with the best fitting model by analyzing the residuals. Besides, the exercise ends by picking a time series and by predicting the next year value through the best ARIMA model.
 
 The identified time series are:
 
