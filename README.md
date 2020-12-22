@@ -9,4 +9,4 @@ The identified time series are:
 * Global Temperatures Anomalies by GISTEMP: GISS Surface Temperature Analysis ver. 4 (GISTEMP v4) is an estimate of global surface temperature change. In the dataset, a multi-year smoothing is applied to fully remove the annual cycle and improve information content in temperature data.
 * Global CO2 emissions: Carbon dioxide emissions are the primary driver of global climate change. CO2 emissions data is sourced from the Global Carbon Project and the Carbon Dioxide Information Analysis Centre (CDIAC). Data has been converted by Our World in Data from tonnes of carbon to tonnes of carbon dioxide using a conversion factor of 3.664.
 
-The user can find the time series in the _Source_ folder, and the R code named _stationary-and-arima_.
+The user can find the time series in the _Source_ folder, and the R code named _stationary-and-arima_. The code is also copy pasted in the _code_ text file in the _main_ folder.
